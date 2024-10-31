@@ -1,0 +1,9 @@
+/** CSS style for WPOL **/
+label {
+	font-weight: bold;
+	float: left;
+}
+input, select {
+	float: left;
+	padding-left: 150px;
+}
